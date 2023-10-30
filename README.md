@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Harun Sokullu
 
 - 🔭 I’m currently working on [Ozan SuperApp](https://www.ozan.com/)
-- 🌱 I’m currently learning [Elixir](https://elixir-lang.org/) & [Spark](https://spark.apache.org/)
+- 🌱 I’m currently learning Soft Skills
 - 💬 Ask me about Software Development, DevOps
 - 📫 How to reach me: [harunsokullu@gmail.com](mailto:harunsokullu@gmail.com)
 
