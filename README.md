@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Harun Sokullu
 
 - 🔭 I’m currently working on [Ozan](https://www.ozan.com/)
-- 🌱 I’m currently learning Soft Skills
+- 🌱 I’m currently learning Vibe Coding
 - 💬 Ask me about Software Development, DevOps
 - 📫 How to reach me: [harunsokullu@gmail.com](mailto:harunsokullu@gmail.com)
 
